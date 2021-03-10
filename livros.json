@@ -1,73 +1,74 @@
+[
 {
     "titulo": "MOODLE 2 para Autores e Tutores - 3ª Edição",
     "autor": "Robson Santos da Silva",
     "ano": 2013,
     "paginas": 168,
     "capa": "https://s3.novatec.com.br/capas/9788575223505.jpg"
-}
+},
 {
     "titulo": "NoSQL Essencial",
     "autor": "Pramod J. Sadalage / Martin Fowler",
     "ano": 2013,
     "paginas": 216,
     "capa": "https://s3.novatec.com.br/capas/9788575223383.jpg"
-}
+},
 {
     "titulo": "Fundamentos de Bancos de Dados com C#",
     "autor": "Michael Schmalz",
     "ano": 2012,
     "paginas": 120,
     "capa": "https://s3.novatec.com.br/capas/9788575223154.jpg"
-}
+},
 {
     "titulo": "Jovem e Bem-Sucedido",
     "autor": "Juliano Niederauer",
     "ano": 2013,
     "paginas": 192,
     "capa": "https://s3.novatec.com.br/capas/9788575223642.jpg"
-}
+},
 {
     "titulo": "Lidando com a Incerteza",
     "autor": "Jonathan Fields",
     "ano": 2013,
     "paginas": 208,
     "capa": "https://s3.novatec.com.br/capas/9788575223109.jpg"
-}
+},
 {
     "titulo": "Equipes de Software",
     "autor": "Brian W. Fitzpatrick / Ben Collins-Sussman",
     "ano": 2012,
     "paginas": 208,
     "capa": "https://s3.novatec.com.br/capas/9788575223291.jpg"
-}
+},
 {
     "titulo": "Arduino em Ação",
     "autor": "Martin Evans / Joshua Noble / Jordan Hochenbaum",
     "ano": 2013,
     "paginas": 424,
     "capa": "https://s3.novatec.com.br/capas/9788575223734.jpg"
-}
+},
 {
     "titulo": "Raspberry Pi – Manual do Usuário",
     "autor": "Eben Upton / Gareth Halfacree ",
     "ano": 2013,
     "paginas": 272,
     "capa": "https://s3.novatec.com.br/capas/9788575223512.jpg"
-}
+},
 {
     "titulo": "Programando o Raspberry Pi",
     "autor": "Simon Monk",
     "ano": 2013,
     "paginas": 192,
     "capa": "https://s3.novatec.com.br/capas/9788575223574.jpg"
-}
+},
 {
     "titulo": "Primeiros Passos com o Raspberry Pi",
     "autor": "Matt Richardson / Shawn Wallace",
     "ano": 2013,
     "paginas": 192,
     "capa": "https://s3.novatec.com.br/capas/9788575223451.jpg"
-}
+},
 {
     "titulo": "Primeiros Passos com o Netduino",
     "autor": "Chris Walker",
@@ -782,3 +783,4 @@
     "paginas": 488,
     "capa": "https://s3.novatec.com.br/capas/9788575222812.jpg"
 }
+]
